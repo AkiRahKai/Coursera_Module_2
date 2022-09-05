@@ -15,7 +15,6 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
   color: white;
 }
 
@@ -29,6 +28,7 @@ p {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     border: 1px solid green;
+    
   }
   .col-lg-1 {
     width: 8.33%;
@@ -151,7 +151,7 @@ p {
   .col-sm-11 {
     width: 91.66%;
   }
-  .col-sm-12 {
+  .col-smsm-12 {
     width: 100%;
   }
 }

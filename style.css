@@ -1,6 +1,7 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  font-family: "sans-serif", Times New Roman, Georgia, Garamond;
 }
 h1 {
   margin-bottom: 15px;
